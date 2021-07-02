@@ -9,7 +9,7 @@
         <elasticsearch.plugin.classname>org.elasticsearch.index.plugin.mapper.preanalyzed.MapperPreAnalyzedPlugin
         </elasticsearch.plugin.classname>
         <skip.integ.tests>true</skip.integ.tests>
-        <elasticsearch.version>7.0.1</elasticsearch.version>
+        <elasticsearch.version>7.11.2</elasticsearch.version>
         <elasticsearch.rest.version>7.0.1</elasticsearch.rest.version>
         <lucene.version>8.0.0</lucene.version>
     </properties>
